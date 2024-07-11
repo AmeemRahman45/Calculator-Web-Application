@@ -30,8 +30,8 @@
   <li>Clone the repository: `git clone <repository_url>`</li>
   <li>Open `index.html` in your web browser to start using the calculator.</li>
 </uL>
-
-## Contributing
+<hr>
+<h2>Contributing</h2>
 
 Contributions are welcome! Fork the repository and submit a pull request with your enhancements.
 
