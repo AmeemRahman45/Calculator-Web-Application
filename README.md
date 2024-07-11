@@ -1,4 +1,4 @@
-<h2>Calculator Web Application</h2>h2>
+<h2>Calculator Web Application</h2>
 <hr>
 <p>The Calculator Web Application project aims to provide a simple yet functional calculator using HTML, CSS, and JavaScript. Users can perform basic arithmetic operations and clear the display as needed.</p>
 <hr>
