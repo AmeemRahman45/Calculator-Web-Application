@@ -24,16 +24,12 @@
 <li>Press 'C' to clear the display.</li>
 <li>Press '=' to calculate and display the result.</li>
 </ul>
-
-
----
-
-## Installation
-
-1. Clone the repository: `git clone <repository_url>`
-2. Open `index.html` in your web browser to start using the calculator.
-
----
+<hr>
+<h2>Installation</h2>
+<uL>
+  <li>Clone the repository: `git clone <repository_url>`</li>
+  <li>Open `index.html` in your web browser to start using the calculator.</li>
+</uL>
 
 ## Contributing
 
