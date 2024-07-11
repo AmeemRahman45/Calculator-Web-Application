@@ -19,10 +19,10 @@
 <hr>
 <h2>Usage</h2>
 <ul>
-<ol>Enter numbers using the numeric buttons.</li>
-<ol>Use operator buttons (+, -, *, /) to perform calculations.</li>
-<ol>Press 'C' to clear the display.</li>
-<ol>Press '=' to calculate and display the result.</li>
+<li>Enter numbers using the numeric buttons.</li>
+<li>Use operator buttons (+, -, *, /) to perform calculations.</li>
+<li>Press 'C' to clear the display.</li>
+<li>Press '=' to calculate and display the result.</li>
 </ul>
 
 
