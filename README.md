@@ -31,13 +31,3 @@
   <li>Open `index.html` in your web browser to start using the calculator.</li>
 </uL>
 <hr>
-<h2>Contributing</h2>
-<p>Contributions are welcome! Fork the repository and submit a pull request with your enhancements.</p>
-<hr>
-<h2>License</h2>
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This format provides a clear overview of your project's purpose, features, technologies used, usage instructions, and contribution guidelines, helping users understand and contribute to your calculator web application project effectively. Adjust `<repository_url>` in the installation section with your actual repository URL.
