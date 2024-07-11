@@ -6,7 +6,7 @@
 <ul>  
   <li>Responsive Design**: The calculator interface adjusts seamlessly across various screen sizes for optimal user experience.</li>
   <li>User-friendly Interface**: Intuitive buttons for numbers and operators, with a clear display to view input and results.</li>
-  <li>>Operations Supported**: Addition (+), subtraction (-), multiplication (*), and division (/).</li
+  <li>Operations Supported**: Addition (+), subtraction (-), multiplication (*), and division (/).</li
   <li>Clear Functionality**: Easily clear the display with the 'C' button and calculate results with '='.</li>
 </ul>
 <hr>
