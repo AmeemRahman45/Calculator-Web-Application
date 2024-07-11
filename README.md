@@ -32,12 +32,9 @@
 </uL>
 <hr>
 <h2>Contributing</h2>
-
-Contributions are welcome! Fork the repository and submit a pull request with your enhancements.
-
----
-
-License
+<p>Contributions are welcome! Fork the repository and submit a pull request with your enhancements.</p>
+<hr>
+<h2>License</h2>
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
